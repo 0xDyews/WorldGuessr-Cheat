@@ -1,0 +1,1 @@
+# WorldGuessr-Cheat
