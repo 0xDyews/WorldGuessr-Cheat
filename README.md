@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/Q2ZPNYH)
+![banner](./worldguessr_cheat_logo.png)
 
 # 🌍 WorldGuessr Cheat
 
