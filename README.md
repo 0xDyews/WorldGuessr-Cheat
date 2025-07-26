@@ -16,6 +16,12 @@ Whenever a matching request is detected, it automatically opens the exact locati
 
 ---
 
+## ⚠️ Only use this against your friends
+
+Do NOT use this program in public lobbies or you WILL get banned.
+
+---
+
 ## 🛠 Setup Instructions
 
 ### 1. Install mitmproxy
