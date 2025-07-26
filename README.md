@@ -1,4 +1,4 @@
-![Banner]([https://yourdomain.com/path-to-banner.jpg](https://imgur.com/a/Q2ZPNYH))
+![Banner](https://imgur.com/a/Q2ZPNYH)
 
 # 🌍 WorldGuessr Cheat
 
