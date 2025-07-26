@@ -1,3 +1,5 @@
+![Banner]([https://yourdomain.com/path-to-banner.jpg](https://imgur.com/a/Q2ZPNYH))
+
 # 🌍 WorldGuessr Cheat
 
 This is a small Python script using [mitmproxy](https://mitmproxy.org/) to intercept and extract coordinates from Google Maps image search requests.
