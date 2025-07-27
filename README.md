@@ -16,9 +16,12 @@ Whenever a matching request is detected, it automatically opens the exact locati
 
 ---
 
-## ⚠️ Only use this against your friends
+## ⚠️ Important Usage Notice
 
-Do NOT use this program in public lobbies or you WILL get banned.
+- **Only use this against friends in private games.**
+- **Do not use in public lobbies or online matches.**
+- Misuse may result in **bans** or violate **terms of service**.
+- This project is intended **purely for learning purposes** (networking, proxying, and HTTP analysis).
 
 ---
 
