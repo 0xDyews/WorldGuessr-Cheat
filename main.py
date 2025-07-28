@@ -1,4 +1,4 @@
-# Made by 0xErebos: https://github.com/0xErebos <3
+# Made by Dyews: https://github.com/0xDyews <3
 
 from mitmproxy import http
 import json
