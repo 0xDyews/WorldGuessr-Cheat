@@ -1,4 +1,4 @@
-![banner](./worldguessr_cheat_logo.png)
+![banner](./logo.png)
 
 # 🌍 WorldGuessr Cheat
 
