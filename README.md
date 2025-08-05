@@ -6,7 +6,7 @@ This is a small Python script using [mitmproxy](https://mitmproxy.org/) to inter
 
 Whenever a matching request is detected, it automatically opens the exact location in Google Maps but zoomed out so you can see the general area (like country level).
 
----
+--
 
 ## 🚀 What It Does
 
